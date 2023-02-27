@@ -1,0 +1,7 @@
+C:\Users\Igor\source\repos\ClockArrowsAngle\ClockArrowsAngle\bin\Debug\ClockArrowsAngle.exe.config
+C:\Users\Igor\source\repos\ClockArrowsAngle\ClockArrowsAngle\bin\Debug\ClockArrowsAngle.exe
+C:\Users\Igor\source\repos\ClockArrowsAngle\ClockArrowsAngle\bin\Debug\ClockArrowsAngle.pdb
+C:\Users\Igor\source\repos\ClockArrowsAngle\ClockArrowsAngle\obj\Debug\ClockArrowsAngle.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\ClockArrowsAngle\ClockArrowsAngle\obj\Debug\ClockArrowsAngle.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\ClockArrowsAngle\ClockArrowsAngle\obj\Debug\ClockArrowsAngle.exe
+C:\Users\Igor\source\repos\ClockArrowsAngle\ClockArrowsAngle\obj\Debug\ClockArrowsAngle.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockArrowsAngle", "ClockArrowsAngle\ClockArrowsAngle.csproj", "{4E5AB695-DCC9-4C5F-85E9-EC63A3150B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestClockArrowsAngle", "UnitTestClockArrowsAngle\UnitTestClockArrowsAngle.csproj", "{501FD11D-324E-47AA-82FB-5CC66A4685F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E5AB695-DCC9-4C5F-85E9-EC63A3150B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E5AB695-DCC9-4C5F-85E9-EC63A3150B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E5AB695-DCC9-4C5F-85E9-EC63A3150B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E5AB695-DCC9-4C5F-85E9-EC63A3150B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501FD11D-324E-47AA-82FB-5CC66A4685F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501FD11D-324E-47AA-82FB-5CC66A4685F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501FD11D-324E-47AA-82FB-5CC66A4685F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501FD11D-324E-47AA-82FB-5CC66A4685F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9FA540-7BC8-436A-AC74-7B6451308AF5}
+	EndGlobalSection
+EndGlobal
